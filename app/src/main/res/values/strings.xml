@@ -6,4 +6,5 @@
     <string name="title_activity_story">StoryActivity</string>
     <string name="key_name">name</string>
     <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="title_activity_lol">LolActivity</string>
 </resources>
